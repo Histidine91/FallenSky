@@ -1,0 +1,5 @@
+Partners in Rhyme (UNKNOWN LICENSE)
+- Machineg_single.wav
+
+Open LieroX (LGPL v2):
+- ex_med6.wav

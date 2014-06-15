@@ -1,20 +1,27 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlaneController :  UnitController {
+public class Plane :  Unit {
 	public string callsign;
 	public AudioClip jetSFX;
-	private AudioSource jetSFXSource;
-	private PlanePhysicsController physicsController;
+	protected AudioSource jetSFXSource;
+	protected PlanePhysicsController physicsController;
 	
-	void Start () {
+	protected new void Start () {
+		base.Start ();
 		physicsController = gameObject.GetComponent<PlanePhysicsController> ();
 		if (physicsController == null) Debug.LogError ("Missing physics controller for player aircraft " + gameObject.name);
 		jetSFXSource = gameObject.AddComponent<AudioSource> ();
 		jetSFXSource.clip = jetSFX;
 		jetSFXSource.loop = true;
+		jetSFXSource.minDistance = 3;
 		jetSFXSource.Play ();
 		jetSFXSource.rolloffMode = AudioRolloffMode.Linear;
+	}
+
+	public void FireGuns(GameObject target)
+	{
+		weaponSet.FireGuns(target);
 	}
 
 	void Update()

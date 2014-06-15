@@ -6,20 +6,22 @@ public class PlayerController : MonoBehaviour {
 	public GUIText speedText;
 	public GUIText throttleText;
 	private PlanePhysicsController physicsController;
+	private Plane ourPlane;
 	private GameObject cameraTether;
 	//private Vector3 cameraOffset;
 	
 	void Start () {
 		physicsController = gameObject.GetComponent<PlanePhysicsController> ();
 		if (physicsController == null) Debug.LogError ("Missing physics controller for player aircraft " + gameObject.name);
-		cameraTether = GameObject.Find ("Camera Tether");
+		cameraTether = GameObject.FindWithTag("MainCamera");
 		if (cameraTether == null) Debug.LogError ("Missing camera tether object");
+		ourPlane = gameObject.GetComponent<Plane> ();
+		if (cameraTether == null) Debug.LogError ("Missing Plane object instance for player aircraft " + gameObject.name);
 		//cameraOffset = new Vector3 (0, 4, -10);
 	}
 	
 	void Update()
 	{
-		float dt = Time.deltaTime;
 		float pitch = Input.GetAxis ("Pitch");
 		float yaw = Input.GetAxis ("Yaw");
 		float roll = -Input.GetAxis ("Roll");	// note roll is reversed!
@@ -29,6 +31,11 @@ public class PlayerController : MonoBehaviour {
 		if (yaw != 0) physicsController.ModifyYaw (yaw);
 		if (roll != 0) physicsController.ModifyRoll (roll);
 		if (throttle != 0) physicsController.ModifyThrottle (throttle);
+
+		if(Input.GetButton("Gun"))
+		{
+			ourPlane.FireGuns(null);	// FIXME specify target
+		}
 	}
 
 	void LateUpdate () {

@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: e6eb84f4c138979499f17ae82ab9368a
+labels:
+- Rover
+- Land_Rover
+- Military
+- Vehicle
+- Car
+- 4x4
+- Defender
+- Wolf
+- HUMVEE
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: tire1_1
+    100002: door_handle_ds
+    100004: LandRover_1
+    100006: LandRover
+    100008: group_1
+    100010: sceneRoot 1
+    100012: tire_2_1
+    100014: matrixTransform
+    100016: tire_2
+    100018: group
+    100020: sceneRoot
+    100022: matrixTransform_4
+    100024: driver_side_door_1
+    100026: matrixTransform_3
+    100028: driver_side_door
+    100030: door_handle_ps_01_1
+    100032: matrixTransform_2
+    100034: door_handle_ps_01
+    100036: passenger_side_door_1
+    100038: matrixTransform_1
+    100040: passenger_side_door
+    100042: Collada_visual_scene_group 1
+    100044: Collada_visual_scene_group
+    100046: //RootNode
+    100048: tire3_1
+    100050: matrixTransform_6
+    100052: matrixTransform_5
+    100054: door_handle_ds_1
+    100056: tire3
+    100058: tire1
+    400000: tire1_1
+    400002: door_handle_ds
+    400004: LandRover_1
+    400006: LandRover
+    400008: group_1
+    400010: sceneRoot 1
+    400012: tire_2_1
+    400014: matrixTransform
+    400016: tire_2
+    400018: group
+    400020: sceneRoot
+    400022: matrixTransform_4
+    400024: driver_side_door_1
+    400026: matrixTransform_3
+    400028: driver_side_door
+    400030: door_handle_ps_01_1
+    400032: matrixTransform_2
+    400034: door_handle_ps_01
+    400036: passenger_side_door_1
+    400038: matrixTransform_1
+    400040: passenger_side_door
+    400042: Collada_visual_scene_group 1
+    400044: Collada_visual_scene_group
+    400046: //RootNode
+    400048: tire3_1
+    400050: matrixTransform_6
+    400052: matrixTransform_5
+    400054: door_handle_ds_1
+    400056: tire3
+    400058: tire1
+    2300000: tire1_1
+    2300002: LandRover_1
+    2300004: tire_2_1
+    2300006: driver_side_door_1
+    2300008: door_handle_ps_01_1
+    2300010: passenger_side_door_1
+    2300012: tire3_1
+    2300014: door_handle_ds_1
+    3300000: tire1_1
+    3300002: LandRover_1
+    3300004: tire_2_1
+    3300006: driver_side_door_1
+    3300008: door_handle_ps_01_1
+    3300010: passenger_side_door_1
+    3300012: tire3_1
+    3300014: door_handle_ds_1
+    4300000: LandRover_1
+    4300002: tire_2_1
+    4300004: passenger_side_door_1
+    4300006: door_handle_ps_01_1
+    4300008: driver_side_door_1
+    4300010: door_handle_ds_1
+    4300012: tire3_1
+    4300014: tire1_1
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,11 @@
+== CC-BY == - See cc.txt for more information
+From Unity Asset Store:
+- landrover_01
+- matv_01
+- mrap_cougar4x4
+- mrap_buffalo
+
+== GPL v3 == - See gpl.txt for more information
+Made by Petar Jedvaj for FlightGear open source flight simulation, available on turbosquid.com:
+- F-35B
+- MiG-21bis

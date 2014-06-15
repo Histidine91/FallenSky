@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 27ed8ca8d09bc5c49a5b7ba088d21c69
+labels:
+- Buffalo
+- Military
+- Vehicle
+- Mine
+- Protection
+- Armor
+- Car
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: matrixTransform
+    100002: Passenger_Wheel_Rear01_1
+    100004: HP_mount_Passenger03
+    100006: matrixTransform_5
+    100008: HP_mount_Passenger01
+    100010: matrixTransform_8
+    100012: HP_mount_Passenger09
+    100014: HP_mount_Passenger08
+    100016: Passenger_Wheel_Rear02_1
+    100018: Passenger_Wheel_Front_1
+    100020: matrixTransform_7
+    100022: Passenger_Wheel_Front
+    100024: HP_mount_driver01
+    100026: HP_mount_Passenger07
+    100028: HP_mount_Passenger04
+    100030: Hp_dust02
+    100032: Hp_dust04
+    100034: HP_mount_Passenger02
+    100036: Door_Rear_1
+    100038: HP_mount_Passenger09_extt
+    100040: Passenger_Wheel_Rear01
+    100042: Driver_Wheel_Rear02_1
+    100044: Driver_Wheel_Rear02
+    100046: Driver_Wheel_Rear01_1
+    100048: matrixTransform_3
+    100050: Driver_Wheel_Rear01
+    100052: Driver_Wheel_Front_1
+    100054: matrixTransform_2
+    100056: Driver_Wheel_Front
+    100058: mrap_buffalo_Interior_1
+    100060: matrixTransform_1
+    100062: mrap_buffalo_Interior
+    100064: mrap_buffalo_veh_1
+    100066: mrap_buffalo_veh
+    100068: Particle_View_01
+    100070: Collada_visual_scene_group 1
+    100072: Collada_visual_scene_group
+    100074: //RootNode
+    100076: HP_mount_Passenger06
+    100078: Hp_dust05
+    100080: HP_mount_Passenger05
+    100082: matrixTransform_6
+    100084: Hp_dust03
+    100086: Hp_dust01
+    100088: RootNode
+    100090: group_1
+    100092: sceneRoot 1
+    100094: group
+    100096: sceneRoot
+    100098: matrixTransform_4
+    100100: Door_Rear
+    100102: Hp_dust06
+    100104: Passenger_Wheel_Rear02
+    400000: matrixTransform
+    400002: Passenger_Wheel_Rear01_1
+    400004: HP_mount_Passenger03
+    400006: matrixTransform_5
+    400008: HP_mount_Passenger01
+    400010: matrixTransform_8
+    400012: HP_mount_Passenger09
+    400014: HP_mount_Passenger08
+    400016: Passenger_Wheel_Rear02_1
+    400018: Passenger_Wheel_Front_1
+    400020: matrixTransform_7
+    400022: Passenger_Wheel_Front
+    400024: HP_mount_driver01
+    400026: HP_mount_Passenger07
+    400028: HP_mount_Passenger04
+    400030: Hp_dust02
+    400032: Hp_dust04
+    400034: HP_mount_Passenger02
+    400036: Door_Rear_1
+    400038: HP_mount_Passenger09_extt
+    400040: Passenger_Wheel_Rear01
+    400042: Driver_Wheel_Rear02_1
+    400044: Driver_Wheel_Rear02
+    400046: Driver_Wheel_Rear01_1
+    400048: matrixTransform_3
+    400050: Driver_Wheel_Rear01
+    400052: Driver_Wheel_Front_1
+    400054: matrixTransform_2
+    400056: Driver_Wheel_Front
+    400058: mrap_buffalo_Interior_1
+    400060: matrixTransform_1
+    400062: mrap_buffalo_Interior
+    400064: mrap_buffalo_veh_1
+    400066: mrap_buffalo_veh
+    400068: Particle_View_01
+    400070: Collada_visual_scene_group 1
+    400072: Collada_visual_scene_group
+    400074: //RootNode
+    400076: HP_mount_Passenger06
+    400078: Hp_dust05
+    400080: HP_mount_Passenger05
+    400082: matrixTransform_6
+    400084: Hp_dust03
+    400086: Hp_dust01
+    400088: RootNode
+    400090: group_1
+    400092: sceneRoot 1
+    400094: group
+    400096: sceneRoot
+    400098: matrixTransform_4
+    400100: Door_Rear
+    400102: Hp_dust06
+    400104: Passenger_Wheel_Rear02
+    2300000: Passenger_Wheel_Rear01_1
+    2300002: Passenger_Wheel_Rear02_1
+    2300004: Passenger_Wheel_Front_1
+    2300006: Door_Rear_1
+    2300008: Driver_Wheel_Rear02_1
+    2300010: Driver_Wheel_Rear01_1
+    2300012: Driver_Wheel_Front_1
+    2300014: mrap_buffalo_Interior_1
+    2300016: mrap_buffalo_veh_1
+    3300000: Passenger_Wheel_Rear01_1
+    3300002: Passenger_Wheel_Rear02_1
+    3300004: Passenger_Wheel_Front_1
+    3300006: Door_Rear_1
+    3300008: Driver_Wheel_Rear02_1
+    3300010: Driver_Wheel_Rear01_1
+    3300012: Driver_Wheel_Front_1
+    3300014: mrap_buffalo_Interior_1
+    3300016: mrap_buffalo_veh_1
+    4300000: mrap_buffalo_veh_1
+    4300002: mrap_buffalo_Interior_1
+    4300004: Driver_Wheel_Front_1
+    4300006: Driver_Wheel_Rear01_1
+    4300008: Driver_Wheel_Rear02_1
+    4300010: Passenger_Wheel_Rear02_1
+    4300012: Passenger_Wheel_Rear01_1
+    4300014: Passenger_Wheel_Front_1
+    4300016: Door_Rear_1
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

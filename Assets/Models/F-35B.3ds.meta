@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: a948c54201f94c14095142a71ddfa7a0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AGM-65
+    100002: AIM-120
+    100004: AIM-9
+    100006: antennas
+    100008: arch
+    100010: box
+    100012: canopy
+    100014: case
+    100016: cockpit
+    100018: door bayLI
+    100020: door bayLO
+    100022: door bayRI
+    100024: door bayRO
+    100026: door engi0
+    100028: door engin
+    100030: door fan
+    100032: door fanL
+    100034: door fanR
+    100036: door topL
+    100038: door topR
+    100040: doorB1L
+    100042: doorB1R
+    100044: doorB2L
+    100046: doorB2R
+    100048: doorFL
+    100050: doorFR
+    100052: elevators
+    100054: engine
+    100056: EOTS
+    100058: //RootNode
+    100060: fan
+    100062: flaperonL
+    100064: flaperonR
+    100066: fuel box
+    100068: fuel intak
+    100070: fuel lever
+    100072: fuel top
+    100074: fuselage
+    100076: GBU-16
+    100078: gear1.F
+    100080: gear1.L
+    100082: gear1.R
+    100084: gear2.F
+    100086: gear2.L
+    100088: gear2.R
+    100090: gear3.F
+    100092: gear3.L
+    100094: gear3.R
+    100096: gear4.L
+    100098: gear4.R
+    100100: handle
+    100102: intake
+    100104: lights
+    100106: lights0000
+    100108: NozzlePe10
+    100110: NozzlePe11
+    100112: NozzlePet1
+    100114: NozzlePet2
+    100116: NozzlePet3
+    100118: NozzlePet4
+    100120: NozzlePet5
+    100122: NozzlePet6
+    100124: NozzlePet7
+    100126: NozzlePet8
+    100128: NozzlePet9
+    100130: NozzlePeta
+    100132: NozzlePlug
+    100134: panel
+    100136: pedal left
+    100138: pedal righ
+    100140: pylons
+    100142: ReheatL
+    100144: rudderL
+    100146: rudderR
+    100148: seat
+    100150: spoilerL
+    100152: spoilerR
+    100154: stick
+    100156: tail
+    100158: Tank
+    100160: throttle
+    100162: throttle b
+    100164: thrusterL
+    100166: thrusterR
+    100168: wheel.F
+    100170: wheel.L
+    100172: wheel.R
+    400000: AGM-65
+    400002: AIM-120
+    400004: AIM-9
+    400006: antennas
+    400008: arch
+    400010: box
+    400012: canopy
+    400014: case
+    400016: cockpit
+    400018: door bayLI
+    400020: door bayLO
+    400022: door bayRI
+    400024: door bayRO
+    400026: door engi0
+    400028: door engin
+    400030: door fan
+    400032: door fanL
+    400034: door fanR
+    400036: door topL
+    400038: door topR
+    400040: doorB1L
+    400042: doorB1R
+    400044: doorB2L
+    400046: doorB2R
+    400048: doorFL
+    400050: doorFR
+    400052: elevators
+    400054: engine
+    400056: EOTS
+    400058: //RootNode
+    400060: fan
+    400062: flaperonL
+    400064: flaperonR
+    400066: fuel box
+    400068: fuel intak
+    400070: fuel lever
+    400072: fuel top
+    400074: fuselage
+    400076: GBU-16
+    400078: gear1.F
+    400080: gear1.L
+    400082: gear1.R
+    400084: gear2.F
+    400086: gear2.L
+    400088: gear2.R
+    400090: gear3.F
+    400092: gear3.L
+    400094: gear3.R
+    400096: gear4.L
+    400098: gear4.R
+    400100: handle
+    400102: intake
+    400104: lights
+    400106: lights0000
+    400108: NozzlePe10
+    400110: NozzlePe11
+    400112: NozzlePet1
+    400114: NozzlePet2
+    400116: NozzlePet3
+    400118: NozzlePet4
+    400120: NozzlePet5
+    400122: NozzlePet6
+    400124: NozzlePet7
+    400126: NozzlePet8
+    400128: NozzlePet9
+    400130: NozzlePeta
+    400132: NozzlePlug
+    400134: panel
+    400136: pedal left
+    400138: pedal righ
+    400140: pylons
+    400142: ReheatL
+    400144: rudderL
+    400146: rudderR
+    400148: seat
+    400150: spoilerL
+    400152: spoilerR
+    400154: stick
+    400156: tail
+    400158: Tank
+    400160: throttle
+    400162: throttle b
+    400164: thrusterL
+    400166: thrusterR
+    400168: wheel.F
+    400170: wheel.L
+    400172: wheel.R
+    2300000: AGM-65
+    2300002: AIM-120
+    2300004: AIM-9
+    2300006: antennas
+    2300008: arch
+    2300010: box
+    2300012: canopy
+    2300014: case
+    2300016: cockpit
+    2300018: door bayLI
+    2300020: door bayLO
+    2300022: door bayRI
+    2300024: door bayRO
+    2300026: door engi0
+    2300028: door engin
+    2300030: door fan
+    2300032: door fanL
+    2300034: door fanR
+    2300036: door topL
+    2300038: door topR
+    2300040: doorB1L
+    2300042: doorB1R
+    2300044: doorB2L
+    2300046: doorB2R
+    2300048: doorFL
+    2300050: doorFR
+    2300052: elevators
+    2300054: engine
+    2300056: EOTS
+    2300058: fan
+    2300060: flaperonL
+    2300062: flaperonR
+    2300064: fuel box
+    2300066: fuel intak
+    2300068: fuel lever
+    2300070: fuel top
+    2300072: fuselage
+    2300074: GBU-16
+    2300076: gear1.F
+    2300078: gear1.L
+    2300080: gear1.R
+    2300082: gear2.F
+    2300084: gear2.L
+    2300086: gear2.R
+    2300088: gear3.F
+    2300090: gear3.L
+    2300092: gear3.R
+    2300094: gear4.L
+    2300096: gear4.R
+    2300098: handle
+    2300100: intake
+    2300102: lights
+    2300104: lights0000
+    2300106: NozzlePe10
+    2300108: NozzlePe11
+    2300110: NozzlePet1
+    2300112: NozzlePet2
+    2300114: NozzlePet3
+    2300116: NozzlePet4
+    2300118: NozzlePet5
+    2300120: NozzlePet6
+    2300122: NozzlePet7
+    2300124: NozzlePet8
+    2300126: NozzlePet9
+    2300128: NozzlePeta
+    2300130: NozzlePlug
+    2300132: panel
+    2300134: pedal left
+    2300136: pedal righ
+    2300138: pylons
+    2300140: ReheatL
+    2300142: rudderL
+    2300144: rudderR
+    2300146: seat
+    2300148: spoilerL
+    2300150: spoilerR
+    2300152: stick
+    2300154: tail
+    2300156: Tank
+    2300158: throttle
+    2300160: throttle b
+    2300162: thrusterL
+    2300164: thrusterR
+    2300166: wheel.F
+    2300168: wheel.L
+    2300170: wheel.R
+    3300000: AGM-65
+    3300002: AIM-120
+    3300004: AIM-9
+    3300006: antennas
+    3300008: arch
+    3300010: box
+    3300012: canopy
+    3300014: case
+    3300016: cockpit
+    3300018: door bayLI
+    3300020: door bayLO
+    3300022: door bayRI
+    3300024: door bayRO
+    3300026: door engi0
+    3300028: door engin
+    3300030: door fan
+    3300032: door fanL
+    3300034: door fanR
+    3300036: door topL
+    3300038: door topR
+    3300040: doorB1L
+    3300042: doorB1R
+    3300044: doorB2L
+    3300046: doorB2R
+    3300048: doorFL
+    3300050: doorFR
+    3300052: elevators
+    3300054: engine
+    3300056: EOTS
+    3300058: fan
+    3300060: flaperonL
+    3300062: flaperonR
+    3300064: fuel box
+    3300066: fuel intak
+    3300068: fuel lever
+    3300070: fuel top
+    3300072: fuselage
+    3300074: GBU-16
+    3300076: gear1.F
+    3300078: gear1.L
+    3300080: gear1.R
+    3300082: gear2.F
+    3300084: gear2.L
+    3300086: gear2.R
+    3300088: gear3.F
+    3300090: gear3.L
+    3300092: gear3.R
+    3300094: gear4.L
+    3300096: gear4.R
+    3300098: handle
+    3300100: intake
+    3300102: lights
+    3300104: lights0000
+    3300106: NozzlePe10
+    3300108: NozzlePe11
+    3300110: NozzlePet1
+    3300112: NozzlePet2
+    3300114: NozzlePet3
+    3300116: NozzlePet4
+    3300118: NozzlePet5
+    3300120: NozzlePet6
+    3300122: NozzlePet7
+    3300124: NozzlePet8
+    3300126: NozzlePet9
+    3300128: NozzlePeta
+    3300130: NozzlePlug
+    3300132: panel
+    3300134: pedal left
+    3300136: pedal righ
+    3300138: pylons
+    3300140: ReheatL
+    3300142: rudderL
+    3300144: rudderR
+    3300146: seat
+    3300148: spoilerL
+    3300150: spoilerR
+    3300152: stick
+    3300154: tail
+    3300156: Tank
+    3300158: throttle
+    3300160: throttle b
+    3300162: thrusterL
+    3300164: thrusterR
+    3300166: wheel.F
+    3300168: wheel.L
+    3300170: wheel.R
+    4300000: AGM-65
+    4300002: AIM-120
+    4300004: AIM-9
+    4300006: EOTS
+    4300008: GBU-16
+    4300010: NozzlePe10
+    4300012: NozzlePe11
+    4300014: NozzlePet1
+    4300016: NozzlePet2
+    4300018: NozzlePet3
+    4300020: NozzlePet4
+    4300022: NozzlePet5
+    4300024: NozzlePet6
+    4300026: NozzlePet7
+    4300028: NozzlePet8
+    4300030: NozzlePet9
+    4300032: NozzlePeta
+    4300034: NozzlePlug
+    4300036: ReheatL
+    4300038: Tank
+    4300040: antennas
+    4300042: arch
+    4300044: box
+    4300046: canopy
+    4300048: case
+    4300050: cockpit
+    4300052: door bayLI
+    4300054: door bayLO
+    4300056: door bayRI
+    4300058: door bayRO
+    4300060: door engi0
+    4300062: door engin
+    4300064: door fan
+    4300066: door fanL
+    4300068: door fanR
+    4300070: door topL
+    4300072: door topR
+    4300074: doorB1L
+    4300076: doorB1R
+    4300078: doorB2L
+    4300080: doorB2R
+    4300082: doorFL
+    4300084: doorFR
+    4300086: elevators
+    4300088: engine
+    4300090: fan
+    4300092: flaperonL
+    4300094: flaperonR
+    4300096: fuel box
+    4300098: fuel intak
+    4300100: fuel lever
+    4300102: fuel top
+    4300104: fuselage
+    4300106: gear1.F
+    4300108: gear1.L
+    4300110: gear1.R
+    4300112: gear2.F
+    4300114: gear2.L
+    4300116: gear2.R
+    4300118: gear3.F
+    4300120: gear3.L
+    4300122: gear3.R
+    4300124: gear4.L
+    4300126: gear4.R
+    4300128: handle
+    4300130: intake
+    4300132: lights
+    4300134: lights0000
+    4300136: panel
+    4300138: pedal left
+    4300140: pedal righ
+    4300142: pylons
+    4300144: rudderL
+    4300146: rudderR
+    4300148: seat
+    4300150: spoilerL
+    4300152: spoilerR
+    4300154: stick
+    4300156: tail
+    4300158: throttle
+    4300160: throttle b
+    4300162: thrusterL
+    4300164: thrusterR
+    4300166: wheel.F
+    4300168: wheel.L
+    4300170: wheel.R
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 14.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

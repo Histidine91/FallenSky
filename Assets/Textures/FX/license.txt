@@ -1,0 +1,3 @@
+== GPL v2 or later ==
+Made by jK for Zero-K (zero-k.info)
+	- smoketrail.png

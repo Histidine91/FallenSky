@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 1bff245d1fe73f048b4f0f325b83e264
+labels:
+- Oshkosh
+- M-ATV
+- MATV
+- Military
+- Vehicle
+- Armor
+- Mine
+- Car
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: passenger_back_window
+    100002: matrixTransform_8
+    100004: m240_1
+    100006: matrixTransform_19
+    100008: driver_side_front_wheel_1
+    100010: passenger_side_back_wheel
+    100012: driver_side_back_wheel
+    100014: matrixTransform_10
+    100016: passenger_side_back_wheel_1
+    100018: matrixTransform_13
+    100020: turret_glass
+    100022: interior
+    100024: hull_1
+    100026: matrixTransform_17
+    100028: passenger_side_front_wheel_1
+    100030: mount
+    100032: passenger_back_window_1
+    100034: matrixTransform_9
+    100036: chains_1
+    100038: matrixTransform
+    100040: hull
+    100042: group_1
+    100044: sceneRoot 1
+    100046: group
+    100048: sceneRoot
+    100050: //RootNode
+    100052: matrixTransform_15
+    100054: turret_glass_1
+    100056: glass
+    100058: glass_1
+    100060: passenger_back_door
+    100062: passenger_front_window_1
+    100064: matrixTransform_6
+    100066: passenger_front_window
+    100068: passenger_front_door_1
+    100070: matrixTransform_5
+    100072: passenger_front_door
+    100074: driver_back_window_1
+    100076: matrixTransform_4
+    100078: driver_back_window
+    100080: driver_back_door_1
+    100082: matrixTransform_3
+    100084: driver_back_door
+    100086: passenger_side_front_wheel
+    100088: matrixTransform_11
+    100090: matrixTransform_16
+    100092: matrixTransform_12
+    100094: mount_1
+    100096: m240
+    100098: passenger_back_door_1
+    100100: matrixTransform_7
+    100102: turret_1
+    100104: matrixTransform_18
+    100106: interior_1
+    100108: driver_side_front_wheel
+    100110: driver_side_back_wheel_1
+    100112: matrixTransform_14
+    100114: driver_front_window_1
+    100116: matrixTransform_2
+    100118: driver_front_window
+    100120: driver_front_door_1
+    100122: matrixTransform_1
+    100124: driver_front_door
+    100126: Collada_visual_scene_group 1
+    100128: Collada_visual_scene_group
+    100130: chains
+    100132: turret
+    400000: passenger_back_window
+    400002: matrixTransform_8
+    400004: m240_1
+    400006: matrixTransform_19
+    400008: driver_side_front_wheel_1
+    400010: passenger_side_back_wheel
+    400012: driver_side_back_wheel
+    400014: matrixTransform_10
+    400016: passenger_side_back_wheel_1
+    400018: matrixTransform_13
+    400020: turret_glass
+    400022: interior
+    400024: hull_1
+    400026: matrixTransform_17
+    400028: passenger_side_front_wheel_1
+    400030: mount
+    400032: passenger_back_window_1
+    400034: matrixTransform_9
+    400036: chains_1
+    400038: matrixTransform
+    400040: hull
+    400042: group_1
+    400044: sceneRoot 1
+    400046: group
+    400048: sceneRoot
+    400050: //RootNode
+    400052: matrixTransform_15
+    400054: turret_glass_1
+    400056: glass
+    400058: glass_1
+    400060: passenger_back_door
+    400062: passenger_front_window_1
+    400064: matrixTransform_6
+    400066: passenger_front_window
+    400068: passenger_front_door_1
+    400070: matrixTransform_5
+    400072: passenger_front_door
+    400074: driver_back_window_1
+    400076: matrixTransform_4
+    400078: driver_back_window
+    400080: driver_back_door_1
+    400082: matrixTransform_3
+    400084: driver_back_door
+    400086: passenger_side_front_wheel
+    400088: matrixTransform_11
+    400090: matrixTransform_16
+    400092: matrixTransform_12
+    400094: mount_1
+    400096: m240
+    400098: passenger_back_door_1
+    400100: matrixTransform_7
+    400102: turret_1
+    400104: matrixTransform_18
+    400106: interior_1
+    400108: driver_side_front_wheel
+    400110: driver_side_back_wheel_1
+    400112: matrixTransform_14
+    400114: driver_front_window_1
+    400116: matrixTransform_2
+    400118: driver_front_window
+    400120: driver_front_door_1
+    400122: matrixTransform_1
+    400124: driver_front_door
+    400126: Collada_visual_scene_group 1
+    400128: Collada_visual_scene_group
+    400130: chains
+    400132: turret
+    2300000: m240_1
+    2300002: driver_side_front_wheel_1
+    2300004: passenger_side_back_wheel_1
+    2300006: hull_1
+    2300008: passenger_side_front_wheel_1
+    2300010: passenger_back_window_1
+    2300012: chains_1
+    2300014: turret_glass_1
+    2300016: glass_1
+    2300018: passenger_front_window_1
+    2300020: passenger_front_door_1
+    2300022: driver_back_window_1
+    2300024: driver_back_door_1
+    2300026: mount_1
+    2300028: passenger_back_door_1
+    2300030: turret_1
+    2300032: interior_1
+    2300034: driver_side_back_wheel_1
+    2300036: driver_front_window_1
+    2300038: driver_front_door_1
+    3300000: m240_1
+    3300002: driver_side_front_wheel_1
+    3300004: passenger_side_back_wheel_1
+    3300006: hull_1
+    3300008: passenger_side_front_wheel_1
+    3300010: passenger_back_window_1
+    3300012: chains_1
+    3300014: turret_glass_1
+    3300016: glass_1
+    3300018: passenger_front_window_1
+    3300020: passenger_front_door_1
+    3300022: driver_back_window_1
+    3300024: driver_back_door_1
+    3300026: mount_1
+    3300028: passenger_back_door_1
+    3300030: turret_1
+    3300032: interior_1
+    3300034: driver_side_back_wheel_1
+    3300036: driver_front_window_1
+    3300038: driver_front_door_1
+    4300000: hull_1
+    4300002: driver_front_door_1
+    4300004: driver_front_window_1
+    4300006: driver_back_door_1
+    4300008: driver_back_window_1
+    4300010: passenger_front_door_1
+    4300012: passenger_front_window_1
+    4300014: passenger_back_door_1
+    4300016: passenger_back_window_1
+    4300018: glass_1
+    4300020: turret_1
+    4300022: turret_glass_1
+    4300024: m240_1
+    4300026: mount_1
+    4300028: driver_side_front_wheel_1
+    4300030: driver_side_back_wheel_1
+    4300032: passenger_side_back_wheel_1
+    4300034: passenger_side_front_wheel_1
+    4300036: chains_1
+    4300038: interior_1
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
